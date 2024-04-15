@@ -1,0 +1,29 @@
+a {
+    color: rgb(44, 90, 100);
+}
+
+.alert {
+    width: 70%;
+    margin: auto;
+}
+
+.navbar {
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.container {
+    max-width: 70%;
+    text-align: center;
+    background-color: rgb(248, 249, 251);
+}
+
+.container-big-text {
+    font-size: 54px;
+}
+
+.container-small-text {
+    color: rgb(128, 127, 133);
+    font-size: 18px;
+}
+
